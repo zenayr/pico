@@ -1,0 +1,10 @@
+{
+    "cmake.buildEnvironment": {
+        "PICO_SDK_PATH": "E:\\Projects\\VSARM\\sdk\\pico\\pico-sdk"
+    },
+    "cmake.configureEnvironment": {
+        "PICO_SDK_PATH": "E:\\Projects\\VSARM\\sdk\\pico\\pico-sdk"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cmake.sourceDirectory": "${workspaceFolder}",
+}
